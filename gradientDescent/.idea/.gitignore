@@ -1,0 +1,23 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# PyCharm specific files to ignore
+/.idea/
+/*.iml
+/modules.xml
+/misc.xml
+/profiles_settings.xml
+/Project_Default
+
+# macOS specific files
+.DS_Store
+
+# Python specific (if applicable)
+/__pycache__/
+/*.pyc
+*.pyo
+*.pyd
